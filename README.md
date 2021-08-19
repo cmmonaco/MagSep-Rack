@@ -5,7 +5,7 @@ Design files for custom, 3D-printed magnetic separation rack for bead-based sepa
 ## About
 These racks are designed to support two sides of 6 1.5-2.0mL microcentrifgue tubes. They uses long, rectangular magnets set lower on the tubes than most commercially available racks allowing for good separation even with very low volume samples. In addition, racks are designed to slot together to allow for expansion when more than 12 samples need to be processed.
 
-Two designs are availbale. The 'Two Part' design featurs a removable top so that samples can be vortexed at the same time without removing each tube from the rack. The 'One Part' design is a single part where the top and bottom are connected.
+Two designs are availbale. The _Two Part_ design featurs a removable top so that samples can be vortexed at the same time without removing each tube from the rack. The _One Part_ design is a single part where the top and bottom are connected.
 
 ### Magnets
 These racks are designed to accept a 5/8" x 1/4" x 0.1" neodymium magnet. We use ones available from [McMaster-Carr](https://www.mcmaster.com/5848K78/).
