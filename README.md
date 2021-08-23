@@ -1,17 +1,17 @@
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
-# MagSep-Rack
+# MagSep Rack
 Design files for custom, 3D-printed magnetic separation rack for bead-based separation of biomolecules. 
 
 ## About
-These racks are designed to support two sides of 6 1.5-2.0mL microcentrifgue tubes. They uses long, rectangular magnets set lower on the tubes than most commercially available racks allowing for good separation even with very low volume samples. In addition, racks are designed to slot together to allow for expansion when more than 12 samples need to be processed.
+These racks are designed to support two sides of 6 1.5-2.0mL microcentrifuge tubes. They use long, rectangular magnets set lower on the tubes than most commercially available racks allowing for good separation even with very low volume samples. In addition, racks are designed to slot together to allow for expansion when more than 12 samples need to be processed.
 
-Two designs are availbale. The _Two Part_ design featurs a removable top so that samples can be vortexed at the same time without removing each tube from the rack. The _One Part_ design is a single part where the top and bottom are connected.
+Two designs are available. The _Two Part_ design features a removable top so that samples can be vortexed at the same time without removing each tube from the rack. The _One Part_ design is a single part where the top and bottom are connected.
 
 ### Magnets
 These racks are designed to accept a 5/8" x 1/4" x 0.1" neodymium magnet. We use ones available from [McMaster-Carr](https://www.mcmaster.com/5848K78/).
 
 ### 3D-Printing
-These racks have been designed for printing on an SLA 3D-printer. We use the Formlabs Form3B. Your milagage may vary with different 3D printing technologies.
+These racks have been designed for printing on an SLA 3D-printer. We use the Formlabs Form3B with Color V1 resin. Your mileage may vary with different 3D printing technologies.
 
 ## CAD Files for Modification
 In addition to the STL files, CAD models can be found at OnShape using the links below:
